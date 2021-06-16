@@ -20,12 +20,6 @@ for x in fruits:
 else:
     print("end")
 
-num=5
-product=1
-for i in range (1,num+1):
-    product=product*i
-print(f"the factorial of {num} is {product}")
-
 
 
 a=40
