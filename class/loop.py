@@ -27,7 +27,6 @@ while i<=n:
     print(i)
 
 
-
 for i in range(1,7):
     if i==3:
         i=i+1

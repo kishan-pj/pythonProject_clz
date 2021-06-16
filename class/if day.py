@@ -1,3 +1,4 @@
+
 num=int(input("enter the num"))
 if num==1:
     print("the day is sunday")

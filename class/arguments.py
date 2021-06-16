@@ -32,7 +32,7 @@ sum(2,3,4,5,6,7)
 
 
 
-#keyword arbitary arguments
+#Keyword arbitary arguments
 def sum(**line):
     print(line)
     sum=0

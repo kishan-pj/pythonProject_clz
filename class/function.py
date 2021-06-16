@@ -1,4 +1,4 @@
-# function having no paremeter and no return type.
+# Function having no paremeter and no return type.
 
 def sum():
     a=int(input("enter the first number: "))

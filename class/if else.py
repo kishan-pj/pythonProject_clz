@@ -1,3 +1,4 @@
+
 # write a program to find am or pm from the time given by user.
 
 time=int(input("enter the number:"))

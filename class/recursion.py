@@ -5,6 +5,7 @@ def factotial(num):
         return num*factotial(num-1)
 print(factotial(5))
 
+
 def multiplication(num):
     if num==1:
         return 3

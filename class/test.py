@@ -19,6 +19,7 @@ print(type(t))
 r=(4,)
 print(type(r))
 
+
 a=[2,"som","indra",3]
 a.append(4)
 print(a)

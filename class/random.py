@@ -1,3 +1,4 @@
+
 x=int(input("enter the number"))
 z=x%2
 if z==0:

@@ -3,6 +3,7 @@ for i in range(2):
         print("2",end=" ")
     print()
 
+
 a=0
 for i in range(4):
     for j in range(i+1):

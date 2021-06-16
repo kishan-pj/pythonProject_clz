@@ -102,6 +102,7 @@ prod()
 def prod(num,i):
     return num*i
 
+
 num = 2
 for i in range(1, 11):
     prod = num * i

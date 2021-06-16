@@ -1,3 +1,4 @@
+
 # having no parameter and return type
 
 def mul():
